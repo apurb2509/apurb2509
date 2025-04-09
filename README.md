@@ -1,4 +1,4 @@
-[![MasterHead] (https://xebia.com/academy/wp-content/uploads/sites/4/2024/02/Github-1920x1080-cat-only.png)
+[![MasterHead] ([https://xebia.com/academy/wp-content/uploads/sites/4/2024/02/Github-1920x1080-cat-only.png](https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif))
 
 <h1 align="center">Hi 👋, I'm Apurb Susobhit Baba</h1>
 <h3 align="center">A passionate MERN Full Stack Developer from India</h3>
