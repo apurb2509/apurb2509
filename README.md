@@ -66,13 +66,13 @@
 <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
 
 <br/>
 
 <!-- Other Tech -->
 <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-<a href="https://ai.google.dev/" target="_blank"><img src="https://seeklogo.com/images/G/google-gemini-logo-57646D0DA0-seeklogo.com.png" alt="Gemini AI" width="40" height="40"/></a>
+<a href="https://ai.google.dev/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/google-gemini-icon.svg" alt="Gemini AI" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Multichannel_publishing" target="_blank"><img src="https://img.icons8.com/ios/452/server.png" alt="MCP Server" width="40" height="40"/></a>
 <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
