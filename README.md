@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Apurb Susobhit Baba</h1>
 <h3 align="center">A passionate MERN Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+<img align="right" alt="Coding" width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY4czJra3N1bXU4YXJ3aDU5d2lkdnB2Y2RieHcwY3ltMjZoYTY4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurb2509&label=Profile%20views&color=0e75b6&style=flat" alt="apurb2509" /> </p>
 
