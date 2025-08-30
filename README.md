@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Apurb Susobhit Baba</h1>
+<h1 align="center">Hi 👋, I'm Apurb!</h1>
 <img
   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdhNjhkbDBjam9iZzVpeXRsN2x6MnNtOWF2cTBsaG16cmw0dnR0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"
   alt="Animated banner"
