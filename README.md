@@ -2,12 +2,12 @@
 
 # Hey, I'm Apurb!
 
-<div style="max-width:560px;aspect-ratio:16/9;margin:0 auto;overflow:hidden;border-radius:8px;">
+<div style="max-width:360px;aspect-ratio:16/3;margin:0 auto;overflow:hidden;border-radius:8px;">
   <img
     src="https://mir-s3-cdn-cf.behance.net/project_modules/source/6588ca174078011.649c6c19744d5.gif"
     alt="Animated banner"
     title="Project demo"
-    style="width:100%;height:100%;object-fit:cover;display:block;transform:scale(0.92);transform-origin:center;"
+    style="width:100%;height:100%;object-fit:cover;display:block;transform:scale(0.86);transform-origin:center;"
   />
 </div>
 
