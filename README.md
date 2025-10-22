@@ -33,7 +33,7 @@ const apurb = {
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=DSA+Enthusiast;MERN+Stack+Developer;GenAI+RAG+Systems;Problem+Solver;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=DSA+Enthusiast;MERN+Stack+Developer;GenAI+&+RAG+Systems;Problem+Solver;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -70,7 +70,6 @@ const apurb = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
