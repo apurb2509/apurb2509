@@ -4,7 +4,7 @@
 
 <div style="max-width:340px;aspect-ratio:16/2;margin:0 auto;overflow:hidden;border-radius:8px;">
   <img
-    src="https://mir-s3-cdn-cf.behance.net/project_modules/source/6588ca174078011.649c6c19744d5.gif"
+    src="https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif"
     alt="Animated banner"
     title="Project demo"
     style="width:100%;height:100%;object-fit:cover;display:block;transform:scale(0.85);transform-origin:center;"
