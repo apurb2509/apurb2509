@@ -33,7 +33,7 @@ const apurb = {
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=DSA+Enthusiast;MERN+Stack+Developer;GenAI+&+RAG+Systems;Problem+Solver;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=DSA+Enthusiast;MERN+Stack+Developer;GenAI+and+RAG+Systems;Problem+Solver;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
