@@ -1,8 +1,15 @@
 <div align="center">
 
-# 👋 Hey, I'm Apurb!
+# Hey, I'm Apurb!
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdhNjhkbDBjam9iZzVpeXRsN2x6MnNtOWF2cTBsaG16cmw0dnR0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Animated banner" width="100%"/>
+<div style="max-width:560px;aspect-ratio:16/9;margin:0 auto;overflow:hidden;border-radius:8px;">
+  <img
+    src="https://mir-s3-cdn-cf.behance.net/project_modules/source/6588ca174078011.649c6c19744d5.gif"
+    alt="Animated banner"
+    title="Project demo"
+    style="width:100%;height:100%;object-fit:cover;display:block;transform:scale(0.92);transform-origin:center;"
+  />
+</div>
 
 ### 🚀 MERN Full Stack Developer | 🤖 GenAI Enthusiast | 🇮🇳 Based in India
 
@@ -26,11 +33,9 @@ const apurb = {
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer;GenAI+Enthusiast;Problem+Solver;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=DSA+Enthusiast;MERN+Stack+Developer;GenAI+RAG+Systems;Problem+Solver;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
-
-<br clear="right"/>
 
 ---
 
