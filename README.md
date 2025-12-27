@@ -23,7 +23,7 @@
 
 ```javascript
 const apurb = {
-    currentProject: "CiviQ",
+    currentProject: "CarCare AI",
     learning: ["DevOps", "Cloud Computing"],
     expertise: ["React", "MERN Stack", "GenAI"],
     contact: "itsapurb@gmail.com",
