@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Apurb!
+# Hey, This is Apurb!
 
 <div style="max-width:340px;aspect-ratio:16/2;margin:0 auto;overflow:hidden;border-radius:8px;">
   <img
