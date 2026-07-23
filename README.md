@@ -3,8 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Apurb%20Susobhit%20Baba&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descAlign=50&animation=fadeIn&fontColor=FFFFFF" alt="Header Banner" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=apurb2509&label=Profile+Views&color=6e40c9&style=for-the-badge" alt="Profile views"/>
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/apurb2509?label=Followers&style=for-the-badge&color=6e40c9&labelColor=1a1a2e)](https://github.com/apurb2509?tab=followers)
+<img src="https://img.shields.io/github/followers/apurb2509?label=Followers&style=for-the-badge&color=6e40c9&labelColor=1a1a2e" alt="GitHub Followers"/>
 
 </div>
 
@@ -66,7 +65,7 @@ const apurb = {
 
 ---
 
-### 🎨 Frontend1
+### 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -115,13 +114,16 @@ const apurb = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=apurb2509&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=6e40c9&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" height="185"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=apurb2509&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="185"/>
-
-</div>
-
-<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=apurb2509&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=6e40c9&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" height="185"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apurb2509&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="185"/>
+    </td>
+  </tr>
+</table>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurb2509&theme=tokyonight&hide_border=true&background=0D1117&ring=6e40c9&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="70%"/>
 
@@ -149,13 +151,8 @@ const apurb = {
 
 <div align="center">
 
-### 🐍 Watch My Contributions Get Devoured
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apurb2509/apurb2509/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apurb2509/apurb2509/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/apurb2509/apurb2509/output/github-snake.svg" />
-</picture>
+### 💡 Dev Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -166,7 +163,5 @@ const apurb = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" alt="Footer Wave" width="100%"/>
 
 *⭐ If you find my work useful or inspiring — drop a star on my repos! It means the world to me.*
-
-**Built with ❤️ by [Apurb Susobhit Baba](https://github.com/apurb2509)**
 
 </div>
