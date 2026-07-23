@@ -11,33 +11,44 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=700&lines=🚀+MERN+Full+Stack+Developer;🤖+GenAI+%26+RAG+Systems+Builder;🧠+DSA+Enthusiast+%26+Problem+Solver;☁️+Exploring+DevOps+%26+Cloud+Computing;💡+Always+Building+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=700&lines=MERN+Full+Stack+Developer;GenAI+%26+RAG+Systems+Builder;DSA+Enthusiast+%26+Problem+Solver;Exploring+DevOps+%26+Cloud+Computing;Always+Building+Something+New)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 Who Am I?
+## About Me
 
 ```javascript
 const apurb = {
-  name        : "Apurb Susobhit Baba",
-  location    : "🇮🇳 India",
-  role        : "MERN Full Stack Developer & GenAI Enthusiast",
-  currentWork : "🔨 Building HERO-IE",
-  learning    : ["DevOps", "Cloud Computing", "System Design"],
-  expertise   : ["React", "MERN Stack", "GenAI", "RAG Systems"],
-  contact     : "📬 itsapurb@gmail.com",
-  funFact     : "I'm cooler than the other side of the pillow 😎",
-  openTo      : ["Collaborations", "Freelance", "Full-time Roles"],
+  role           : "MERN Full Stack Developer & GenAI Enthusiast",
+  currentProject : "COCUC Website",
+  expertise      : ["React", "MERN Stack", "GenAI", "RAG Systems"],
+  learning       : ["DevOps", "Cloud Computing", "System Design"],
+  contact        : "itsapurb@gmail.com",
+  openTo         : ["Internships", "Freelance", "Full-time Roles"],
 };
 ```
 
-> 💬 *"Code is not just instructions — it's a craft."*
+---
+
+## Daily Dev Quote
+
+<div align="center">
+
+<!-- QUOTE-START -->
+> *"First, solve the problem. Then, write the code."*
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;— **John Johnson**
+<!-- QUOTE-END -->
+
+*Auto-updated every day via GitHub Actions*
+
+</div>
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -51,11 +62,11 @@ const apurb = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -65,7 +76,7 @@ const apurb = {
 
 ---
 
-### 🎨 Frontend
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -75,7 +86,7 @@ const apurb = {
 
 ---
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -89,7 +100,7 @@ const apurb = {
 
 ---
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -98,7 +109,7 @@ const apurb = {
 
 ---
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -110,20 +121,22 @@ const apurb = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=apurb2509&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=6e40c9&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" height="185"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apurb2509&theme=tokyonight" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apurb2509&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="185"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apurb2509&theme=tokyonight" alt="Most Used Languages"/>
     </td>
   </tr>
 </table>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apurb2509&theme=tokyonight" alt="Profile Details" width="100%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurb2509&theme=tokyonight&hide_border=true&background=0D1117&ring=6e40c9&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="70%"/>
 
@@ -131,28 +144,19 @@ const apurb = {
 
 ---
 
-## 🏆 Achievements & Activity
+## Achievements & Activity
 
 <div align="center">
 
-### 🥇 GitHub Trophies
+### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=apurb2509&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5)
 
 </div>
 
 <div align="center">
 
-### 📈 Contribution Graph
+### Contribution Graph
 [![Apurb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=apurb2509&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=6e40c9&point=FFFFFF)](https://github.com/apurb2509)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -162,6 +166,6 @@ const apurb = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" alt="Footer Wave" width="100%"/>
 
-*⭐ If you find my work useful or inspiring — drop a star on my repos! It means the world to me.*
+*If you find my work useful or inspiring — drop a star on my repos!*
 
 </div>
