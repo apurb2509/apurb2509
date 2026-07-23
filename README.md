@@ -1,126 +1,172 @@
 <div align="center">
 
-# Hey, This is Apurb!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Apurb%20Susobhit%20Baba&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descAlign=50&animation=fadeIn&fontColor=FFFFFF" alt="Header Banner" width="100%"/>
 
-<div style="max-width:340px;aspect-ratio:16/2;margin:0 auto;overflow:hidden;border-radius:8px;">
-  <img
-    src="https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif"
-    alt="Animated banner"
-    title="Project demo"
-    style="width:100%;height:100%;object-fit:cover;display:block;transform:scale(0.85);transform-origin:center;"
-  />
-</div>
-
-### 🚀 MERN Full Stack Developer | 🤖 GenAI Enthusiast | 🇮🇳 Based in India
-
-<img src="https://komarev.com/ghpvc/?username=apurb2509&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=apurb2509&label=Profile+Views&color=6e40c9&style=for-the-badge" alt="Profile views"/>
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/apurb2509?label=Followers&style=for-the-badge&color=6e40c9&labelColor=1a1a2e)](https://github.com/apurb2509?tab=followers)
 
 </div>
 
 ---
 
-## 💫 About Me
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=700&lines=🚀+MERN+Full+Stack+Developer;🤖+GenAI+%26+RAG+Systems+Builder;🧠+DSA+Enthusiast+%26+Problem+Solver;☁️+Exploring+DevOps+%26+Cloud+Computing;💡+Always+Building+Something+New)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🧑‍💻 Who Am I?
 
 ```javascript
 const apurb = {
-    currentProject: "HERO-IE",
-    learning: ["DevOps", "Cloud Computing"],
-    expertise: ["React", "MERN Stack", "GenAI"],
-    contact: "itsapurb@gmail.com",
-    funFact: "Cooler than the other side of pillow 😎"
+  name        : "Apurb Susobhit Baba",
+  location    : "🇮🇳 India",
+  role        : "MERN Full Stack Developer & GenAI Enthusiast",
+  currentWork : "🔨 Building HERO-IE",
+  learning    : ["DevOps", "Cloud Computing", "System Design"],
+  expertise   : ["React", "MERN Stack", "GenAI", "RAG Systems"],
+  contact     : "📬 itsapurb@gmail.com",
+  funFact     : "I'm cooler than the other side of the pillow 😎",
+  openTo      : ["Collaborations", "Freelance", "Full-time Roles"],
 };
 ```
 
+> 💬 *"Code is not just instructions — it's a craft."*
+
+---
+
+## 🌐 Let's Connect
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=DSA+Enthusiast;MERN+Stack+Developer;GenAI+and+RAG+Systems;Problem+Solver;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/4purb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apurbsusobhitbaba)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsapurb)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@apurbsusobhitbaba8341)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsapurb@gmail.com)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/4purb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apurbsusobhitbaba)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsapurb)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@apurbsusobhitbaba8341)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsapurb@gmail.com)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 ### 💻 Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🎨 Frontend Development
+---
+
+### 🎨 Frontend1
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
+---
+
 ### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
+---
+
 ### ☁️ Cloud & DevOps
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🔧 Developer Tools
+---
+
+### 🔧 Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apurb2509&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apurb2509&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=apurb2509&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=6e40c9&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" height="185"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=apurb2509&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="185"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurb2509&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=apurb2509&theme=tokyonight&hide_border=true&background=0D1117&ring=6e40c9&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="70%"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Activity
+
+<div align="center">
+
+### 🥇 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=apurb2509&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5)
+
+</div>
+
+<div align="center">
+
+### 📈 Contribution Graph
+[![Apurb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=apurb2509&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=6e40c9&point=FFFFFF)](https://github.com/apurb2509)
+
 </div>
 
 ---
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=apurb2509&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+### 🐍 Watch My Contributions Get Devoured
 
-### 📈 Activity Graph
-[![Apurb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=apurb2509&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/apurb2509)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apurb2509/apurb2509/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apurb2509/apurb2509/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/apurb2509/apurb2509/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
-*If you like my work, consider giving a ⭐ to my repositories!*
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" alt="Footer Wave" width="100%"/>
+
+*⭐ If you find my work useful or inspiring — drop a star on my repos! It means the world to me.*
+
+**Built with ❤️ by [Apurb Susobhit Baba](https://github.com/apurb2509)**
 
 </div>
