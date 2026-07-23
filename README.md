@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Apurb%20Susobhit%20Baba&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descAlign=50&animation=fadeIn&fontColor=FFFFFF" alt="Header Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Apurb%20Susobhit%20Baba&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descAlign=50&animation=fadeIn&fontColor=FFFFFF" alt="Header Banner" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=apurb2509&label=Profile+Views&color=6e40c9&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/apurb2509?label=Followers&style=for-the-badge&color=6e40c9&labelColor=1a1a2e" alt="GitHub Followers"/>
@@ -41,8 +41,6 @@ const apurb = {
 >
 > &nbsp;&nbsp;&nbsp;&nbsp;— **John Johnson**
 <!-- QUOTE-END -->
-
-*Auto-updated every day via GitHub Actions*
 
 </div>
 
