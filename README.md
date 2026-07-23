@@ -26,23 +26,11 @@ const apurb = {
   expertise      : ["React", "MERN Stack", "GenAI", "RAG Systems"],
   learning       : ["DevOps", "Cloud Computing", "System Design"],
   contact        : "itsapurb@gmail.com",
-  openTo         : ["Internships", "Freelance", "Full-time Roles"],
+  openTo         : ["Collaborations", "Freelance", "Full-time Roles"],
 };
 ```
 
----
-
-## Daily Dev Quote
-
-<div align="center">
-
-<!-- QUOTE-START -->
-> *"First, solve the problem. Then, write the code."*
->
-> &nbsp;&nbsp;&nbsp;&nbsp;— **John Johnson**
-<!-- QUOTE-END -->
-
-</div>
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 ---
 
@@ -72,8 +60,6 @@ const apurb = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
----
-
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -81,8 +67,6 @@ const apurb = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
----
 
 ### Backend & Databases
 
@@ -96,16 +80,12 @@ const apurb = {
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
----
-
 ### Cloud & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
 
 ### Tools & Platforms
 
@@ -126,15 +106,13 @@ const apurb = {
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apurb2509&theme=tokyonight" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=apurb2509&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=6e40c9&text_color=FFFFFF" alt="GitHub Stats" height="185"/>
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apurb2509&theme=tokyonight" alt="Most Used Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apurb2509&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="185"/>
     </td>
   </tr>
 </table>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apurb2509&theme=tokyonight" alt="Profile Details" width="100%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurb2509&theme=tokyonight&hide_border=true&background=0D1117&ring=6e40c9&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="70%"/>
 
@@ -147,13 +125,11 @@ const apurb = {
 <div align="center">
 
 ### GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=apurb2509&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5)
 
-</div>
-
-<div align="center">
-
 ### Contribution Graph
+
 [![Apurb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=apurb2509&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=6e40c9&point=FFFFFF)](https://github.com/apurb2509)
 
 </div>
